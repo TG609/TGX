@@ -3,7 +3,7 @@
 ·Descarga:
   Si no puedes completar linkvertise intenta usando otro navegador
   El instalador se elimina despues de descargar, verifica tener los antivirus desactivados, si no es asi desactivalos
-  El link jamas cambia https://link-to.net/183458/TGXV3
+  El link jamas cambia https://link-to.net/183458/TGXV4
 ·Problemas al abrir:
   No extraiste todos los archivos o quizas fueron borrados
   Reinicia el pc y vuelve a abrir TGX
@@ -23,4 +23,4 @@
   3 Pega el script y no hagas nada hasta que se haya pegado
 
 {Sugerencias}
-·Si tienes algun script que es compatible con tgx y te gustaria verlo en el Game Hub, enviamelo por mensaje directo: http://gg.gg/Gablo
+·Si tienes algun script que es compatible con tgx y te gustaria verlo en el Game Hub, enviamelo por mensaje directo: http://gg.gg/Gablo y servidor de discord es discord.me/tgx para más ayuda
