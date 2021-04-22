@@ -1,0 +1,26 @@
+{Errores}
+
+·Descarga:
+  Si no puedes completar linkvertise intenta usando otro navegador
+  El instalador se elimina despues de descargar, verifica tener los antivirus desactivados, si no es asi desactivalos
+  El link jamas cambia https://link-to.net/183458/TGXV3
+·Problemas al abrir:
+  No extraiste todos los archivos o quizas fueron borrados
+  Reinicia el pc y vuelve a abrir TGX
+  Descarga e instala estos links https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/
+                                 https://dotnet.microsoft.com/download/dotnet-framework/net472
+·Inyeccion:
+  Espera que cargue todo el juego y despues inyecta
+  Couldn't find Roblox-Usa roblox del navegador no el de Microsoft Store
+  ZeusX.dll couldn't be found-Desactiva el antivirus y vuelve a extraer ya que la dll fue borrada
+  No sucede nada al inyectar y marca que fue inyectado, reinicia el pc, desactiva el antivirus, vuelve a extraer e intentalo de nuevo
+  Asegurate de tener esto instalado para la funcionalidad del exploit-https://dotnet.microsoft.com/download/dotnet-framework/net472
+                                                                     -https://aka.ms/vs/16/release/vc_redist.x86.exe (for x86) or https://aka.ms/vs/16/release/vc_redist.x64.exe
+                                                                     -https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/
+·Scripts:
+  1(Complejo)Si el exploit crashea al poner el script sube tu script a pastebin despues conviertelo a raw y ya hecho eso pegalo en el loadstring converter que esta en la ventana de opciones en TGX, ya hecho eso pega el script donde siempre y podras ejecutar
+  2 Envia el script a Gabloxia y que el haga el proceso por ti
+  3 Pega el script y no hagas nada hasta que se haya pegado
+
+{Sugerencias}
+·Si tienes algun script que es compatible con tgx y te gustaria verlo en el Game Hub, enviamelo por mensaje directo: http://gg.gg/Gablo
